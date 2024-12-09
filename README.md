@@ -1,0 +1,1 @@
+for the source code, please note that there are more canisters that there are canisters which are technically functional but lack proper models/unlocking/crafting. If you are looking to code your own containers, please look at the code for those canisters and not the backpack canisters as the backpack canister code is hacky and not a proper way to do it.
